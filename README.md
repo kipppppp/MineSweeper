@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 This project allows the user to play a game of Minesweeper. Utilizes a 3D array to represent a minefield and recursion to search adjacent cells.
-Because this project was completed for coursework I am unable to <ins>publically</ins> share the source code.
+Because this project was completed for coursework I am unable to <ins>publicly</ins> share the source code.
 <br />
 
 
