@@ -1,15 +1,16 @@
 # <h1>Minesweeper</h1>
 
 <h2>Description</h2>
-This project allows the user to play a game of Minesweeper.
+This project allows the user to play a game of Minesweeper. Utilizes a 3D array to represent a minefield and recursion to search adjacent cells.
+Because this project was completed for coursework I am unable to publically share the source code.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages Used</h2>
 
 - <b>C++</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Program Walk-Through:</h2>
 
 <p align="center">
 Launch the game <br/>
